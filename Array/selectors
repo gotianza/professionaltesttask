@@ -1,0 +1,6 @@
+1.  img.glue-header__logo-svg
+2.  [class*='glue-header__logo-container']
+3.  (//*[@class="glue-header__logo-container"])[2]
+4.  /html[1]/body[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/img[1]
+5.  //header/div[@id='glue-drawer']/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/img[1]
+
